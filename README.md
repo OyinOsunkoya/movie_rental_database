@@ -8,4 +8,4 @@ Investigate a movie rental database
 Extracted data using Postgresql from a movie database to answer questions regarding the rental duration of movies and the categories of movies rentals. 
 
 ### Credits
-Project as part of Udayity Programming for Data Science
+Project as part of Udacity Programming for Data Science
